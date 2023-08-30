@@ -8,4 +8,3 @@ The notebook presents two main code sections: `run_code_1(n)` and `run_code_2(n)
 
 Throughout the notebook, the execution times and CPU usage for both approaches are measured and compared. The exploration is conducted for different values of 'n' (the size of the network), including 100, 500, 1000, 2000, 5000, 10000, 20000, 50000, 80000, and 100000. For each 'n' value, the notebook calculates and records the execution times and CPU usage, providing insights into the efficiency of the optimized approach.
 
-The notebook utilizes libraries such as `time`, `psutil`, `numpy`, `scipy.stats`, and `matplotlib.pyplot` to facilitate the analysis, visualization, and performance measurement. By examining the results obtained from this notebook, researchers and practitioners in the field of network analysis can gain valuable insights into optimizing group degree generation methods to enhance computational efficiency in various network-related tasks.
