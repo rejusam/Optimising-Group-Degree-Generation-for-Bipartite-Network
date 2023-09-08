@@ -1,5 +1,5 @@
 # Optimising-Group-Degree-Generation-for-Bipartite-Network
-Here we explore the optimisation of group degree generation. The following cell focuses on comparing the execution times and CPU usage between non-optimized and optimised approaches for generating group degree sequences.
+Here we explore the optimisation of group degree generation. This code focuses on comparing the execution times and CPU usage between non-optimized and optimised approaches for generating group degree sequences.
 
 ## Description:
 This Jupyter Notebook explores the optimization of group degree generation in network analysis using Python. The notebook focuses on comparing the execution times and CPU usage between non-optimized and optimized approaches for generating group degree sequences. Group degree sequences play a crucial role in various network analysis applications, including social networks, communication networks, and more.
